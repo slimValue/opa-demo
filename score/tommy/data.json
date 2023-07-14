@@ -1,0 +1,20 @@
+{
+  "achievement": {
+    "shenzhen": {
+      "yiben": {
+        "score": 600
+      },
+      "erben": {
+        "score": 500
+      }
+    },
+    "guangzhou": {
+      "yiben": {
+        "score": 620
+      },
+      "erben": {
+        "score": 520
+      }
+    }
+  }
+}
